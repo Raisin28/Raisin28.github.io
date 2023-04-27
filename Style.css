@@ -8,6 +8,10 @@ body {
   background-image: url("londonmap.jpg");
 }
 
+p{
+  color:white;
+}
+
 
 /* Style the header */
 .header {
